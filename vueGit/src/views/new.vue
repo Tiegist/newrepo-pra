@@ -1,6 +1,6 @@
 <template>
 <div>
-    <p>first project to work with git</p>
+    <p>first project to work with git hello</p>
 </div>  
 </template>
 
